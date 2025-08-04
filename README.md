@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Abubakr50
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Abubakr Alqqubati
+- 👀 I’m interested in Mobile Applications and Web Development Programming
+- 🌱 I’m currently learning Freelancer
+- 💞️ I’m looking to collaborate on Programming Jobs
+- 📫 How to reach me eng.abubakr775@gmail.com
 
 <!---
 Abubakr50/Abubakr50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
